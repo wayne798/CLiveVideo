@@ -18,9 +18,9 @@
 
 ![image2](https://github.com/wayne798/CLiveVideo/blob/master/CLiveVideo/CLiveVideo/img2.PNG)
 
-![image2](https://github.com/wayne798/CLiveVideo/blob/master/CLiveVideo/CLiveVideo/img3.png)
+![image2](https://github.com/wayne798/CLiveVideo/blob/master/CLiveVideo/CLiveVideo/img3.jpg)
 
-![image2](https://github.com/wayne798/CLiveVideo/blob/master/CLiveVideo/CLiveVideo/img4.png)
+![image2](https://github.com/wayne798/CLiveVideo/blob/master/CLiveVideo/CLiveVideo/img4.jpg)
 
 #PS
 如果有同学需要硬编码的推流demo，请移步runner365同学的SDK。
